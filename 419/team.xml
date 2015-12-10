@@ -1,0 +1,17 @@
+<management>
+	<teammember>
+		<name>Frank Hubbert</name>
+		<title>Science Fiction Novelist</title>
+		<bio>Frank Hubbert was born to Suzy and James Hubbert on a cold November day in Liverpool, England.</bio>
+	</teammember>
+	<teammember>
+		<name>James Gallway</name>
+		<title>Classical Flautist</title>
+		<bio>James hales from the land of Ireland. His home country plays a role in influencing his original music and style of playing.</bio>
+	</teammember>
+	<teammeber>
+		<name>Xina</name>
+		<title>Warrior Princess</title>
+		<bio>Xina has over 20 years of experience fighting bad guys and she's pretty cool.</bio>
+	</teammeber>
+</management>

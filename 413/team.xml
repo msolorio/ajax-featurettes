@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<management>
+	<teammember>
+		<name>Agnes</name>
+		<title>Lead Person Who Does Stuff</title>
+		<bio>Agnes has been doing stuff all her life and leads the department with an iron fist.</bio>
+	</teammember>
+	<teammember>
+		<name>Joel</name>
+		<title>Associate Person Who Does Stuff</title>
+		<bio>Joel is Agnes' right hand man.  He does stuff that Agnes doesn't.</bio>
+	</teammember>
+</management>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<the-garden>
+	<item>
+		<name>arugala</name>
+		<description>a member of the genus arugalus, this leafy green will add a kick to any salad</description>
+	</item>
+	<item>
+		<name>pear</name>
+		<description>a palm-sized sweet fruit that grows well on hillsides in the south of France.</description>
+	</item>
+	<item>
+		<name>squash</name>
+		<description>This starchy vegitable is great in a number of holiday dishes.</description>
+	</item>
+	<item>
+		<name>goji berry</name>
+		<description>grown on a bush of about waist height, these sweet berries will keep you picking and eating all through the day.</description>
+	</item>
+	<item>
+		<name>onion</name>
+		<description>these root vegetables will add pinache and flavor to dishes once bland and uneventful.</description>
+	</item>
+</the-garden>

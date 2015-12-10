@@ -1,0 +1,17 @@
+{"teammembers":[
+	{
+		"name":"Josephine",
+		"title":"Lead Person Who Does Things",
+		"bio":"Josephine has been doing things all her life and can actually do things quite well."
+	},
+	{
+		"name":"Matthew",
+		"title":"Associate Person Who Does Things",
+		"bio":"Matt does things that Josephine doesn't do."
+	},
+	{
+		"name":"Abigale",
+		"title":"Hairdresser",
+		"bio":"Abigale provides onsite haircuts to Josephine and Matthew in the office."
+	}
+]}

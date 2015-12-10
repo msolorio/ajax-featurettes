@@ -1,0 +1,17 @@
+<management>
+	<teammember>
+		<name>Samantha</name>
+		<title>Florest</title>
+		<bio>Samantha loves growing flowers. She knows just all there is to know about growing flowers.</bio>
+	</teammember>
+	<teammember>
+		<name>Hugo</name>
+		<title>Tailor</title>
+		<bio>Hugo loves to sew. He can sew just about any two materials together and do so seamlessly.</bio>
+	</teammember>
+	<teammember>
+		<name>Rawanda</name>
+		<title>Scientist</title>
+		<bio>Rawanda loves science. She especially likes test tubes and mixing things in test tubes.</bio>
+	</teammember>
+</management>
