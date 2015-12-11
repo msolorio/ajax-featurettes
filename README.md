@@ -1,2 +1,2 @@
 # ajax-featurettes
-a collection of ajax projects
+a collection of small ajax projects
