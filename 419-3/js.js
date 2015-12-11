@@ -19,7 +19,7 @@ function displayCatalog(){
 			var $id = $xmlDoc.find('id').text();
 
 			$('#catalog').append("<div class='course-div' id='"+$id+"'>"+
-			"<h3 class='course-name'>"+$id+", "+$name+"</h3>"+
+			"<h3 class='course-name'><span class='course-id'>"+$id+"</span>, "+$name+"</h3>"+
 			"<p class='course-description'>"+$description+" <span class='course-units'><strong>"+$units+" units</strong></span></p>"+
 			"</div>");
 		});
